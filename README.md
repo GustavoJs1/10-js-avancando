@@ -1,1 +1,3 @@
-# 10-js-avancando
+# #10 - JS: Avançando
+
+### Gustavo Jardim Silva
